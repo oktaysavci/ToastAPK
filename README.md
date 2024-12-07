@@ -1,6 +1,6 @@
 # APK dosyasına Toast Mesajı Nasıl Eklenir? 
 
-```
+```smali
 def hello_world():
     print("Hello, World!")
 ```
