@@ -1,5 +1,8 @@
 # APK dosyasına Toast Mesajı Nasıl Eklenir? 
 
+Kod:
+print("Hello World");
+
 ---
 
 ## Adım 1: APK Dosyasını seçin
