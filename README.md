@@ -1,7 +1,10 @@
 # APK dosyasına Toast Mesajı Nasıl Eklenir? 
 
-Kod:
-print("Hello World");
+```python
+def hello_world():
+    print("Hello, World!")
+```
+
 
 ---
 
