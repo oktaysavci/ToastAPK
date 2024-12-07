@@ -1,6 +1,7 @@
 # APK dosyasına Toast Mesajı Nasıl Eklenir? 
 
-```smali
+Kod:
+```
 .line 14
     const-string v0, "Toast Mesajınız"
 
